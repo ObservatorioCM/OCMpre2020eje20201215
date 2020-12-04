@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "OCMpre2020eje20201215"
+  "defaultProject": "OCMpre2020eje20201215",
+  "cli": {
+    "analytics": "fd84713c-71eb-49bc-813e-1ed84171b076"
+  }
 }
