@@ -1,0 +1,92 @@
+/* https://www.w3schools.com/cssref/css_selectors.asp */
+.divIndice {
+  padding-top: 30px;
+  height: 80vh;
+ }
+
+/* Como CSS no tiene la propiedad background.opacity
+insertamosun seudo elemento con el mismo tamaño. */
+.divIndice::after {
+  content: "";
+  background: url('../../assets/img/textura.jpg');
+  opacity: 0,5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+.rowTexto {
+  margin-top: 40px !important;
+  margin-bottom: 40px;
+  font-weight: 900 !important;
+  margin-top: 10px;
+  color:black;
+  font-family: var(--fuente-principal);
+  font-size: 42px;
+  text-shadow: 4px 4px 4px #aaa;
+  text-align: center;
+}
+
+.rowStyle {
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+/* Card --------------------------------------------------------------------- */
+/* https://www.w3schools.com/bootstrap4/bootstrap_cards.asp */
+.card {
+  /* border: 0; */
+  margin-bottom: 3px;
+  margin-top: 20px;
+  border-radius: 6px !important;
+  color: rgba(0, 0, 0, 0.87);
+  background: #fff;
+  width: 100%;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  margin-left: 20px;
+  margin-right: 20px;
+  max-width: 300px;
+  max-height: 215px;
+  text-align: center;
+}
+
+.cardHeaderImage {
+  position: relative;
+  padding: 0;
+  z-index: 1;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: -30px;
+  border-radius: 6px;
+  max-height: 215px;
+}
+
+.cardHeaderImage img {
+  width: 80%;
+  height: 80%;
+}
+
+.card-title {
+  font-weight: 700 !important;
+  margin-top: 10px;
+  color: #3c4858;
+  font-family: var(--fuente-principal);
+  font-size: 14px;
+  text-shadow: 4px 4px 4px #aaa;
+  text-align: center;
+}
+/* End Card --------------------------------------------------------------------- */
+
+/* -----------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 750px) {
+}
+/* -----------------------------------------------------------------------------------------------*/
+

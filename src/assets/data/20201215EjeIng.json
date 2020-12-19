@@ -1,0 +1,1010 @@
+[
+  {
+    "CodEco": 36002,
+    "Descripcion": "FOTOCOPIAS",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Fotocopias"
+  },
+  {
+    "CodEco": 60000,
+    "Descripcion": "Venta de solares (No PMS)",
+    "DerechosReconocidosNetos": 51809,
+    "CodCap": 6,
+    "DesCap": "Enajenación de inversiones",
+    "DesEco": "Venta de solares (No PMS)"
+  },
+  {
+    "CodEco": 75080,
+    "Descripcion": "Otras transferencias de capital de la Administración General",
+    "DerechosReconocidosNetos": 5000,
+    "CodCap": 7,
+    "DesCap": "Transferencias de capital",
+    "DesEco": "Otras transferencias de capital de la Administración General del Estado"
+  },
+  {
+    "CodEco": 76800,
+    "Descripcion": "De Entidades Locales Menores",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 7,
+    "DesCap": "Transferencias de capital",
+    "DesEco": "De Entidades Locales Menores"
+  },
+  {
+    "CodEco": 91101,
+    "Descripcion": "Préstamo Fondo Ordenación Sentencias Judiciales Firmes",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 9,
+    "DesCap": "Pasivos financieros",
+    "DesEco": "Préstamo Fondo Ordenación sentencias judiciales firmes"
+  },
+  {
+    "CodEco": 91301,
+    "Descripcion": "PRÉSTAM RECIBIDOS A L/P DE ENTES DE FUERA DEL SECTOR PÚBLICO",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 9,
+    "DesCap": "Pasivos financieros",
+    "DesEco": "Prestamos recibidos a largo plazo de entes fuera del sector público"
+  },
+  {
+    "CodEco": 10000,
+    "Descripcion": "Sobre la renta de la personas físicas",
+    "DerechosReconocidosNetos": 2171314,
+    "CodCap": 1,
+    "DesCap": "Impuestos directos",
+    "DesEco": "Impuestos sobre la Renta de las Personas Físicas."
+  },
+  {
+    "CodEco": 11200,
+    "Descripcion": "Impto sobre Biene Inmuebles. Bienes Inmueb de Nat Rústica",
+    "DerechosReconocidosNetos": 2590855,
+    "CodCap": 1,
+    "DesCap": "Impuestos directos",
+    "DesEco": "Impuesto sobre Bienes Inmuebles. Bienes Inmuebles de Naturaleza Rústica."
+  },
+  {
+    "CodEco": 11300,
+    "Descripcion": "Impto sobre Bienen Inmuebles. Bienes de Naturaleza Urbana",
+    "DerechosReconocidosNetos": 45731009,
+    "CodCap": 1,
+    "DesCap": "Impuestos directos",
+    "DesEco": "Impuesto sobre Bienes Inmuebles. Bienes inmuebles de Naturaleza Urbana."
+  },
+  {
+    "CodEco": 11400,
+    "Descripcion": "Imptos. sobre Bienes Inmuebles de características especiales",
+    "DerechosReconocidosNetos": 1263701,
+    "CodCap": 1,
+    "DesCap": "Impuestos directos",
+    "DesEco": "Impuesto sobre Bienes Inmuebles. Bienes Inmuebles de características especiales."
+  },
+  {
+    "CodEco": 11500,
+    "Descripcion": "Impuesto sobre Vehículos de Tracción Mecánica",
+    "DerechosReconocidosNetos": 10780079,
+    "CodCap": 1,
+    "DesCap": "Impuestos directos",
+    "DesEco": "Impuesto sobre Vehículos de Tracción Mecánica."
+  },
+  {
+    "CodEco": 11600,
+    "Descripcion": "Impuesto sobre Incremento Valor de los Terrenos Urbanos",
+    "DerechosReconocidosNetos": 8984944,
+    "CodCap": 1,
+    "DesCap": "Impuestos directos",
+    "DesEco": "Impuesto sobre Incremento del Valor de los Terrenos de Naturaleza Urbana."
+  },
+  {
+    "CodEco": 13000,
+    "Descripcion": "Actividades Empresariales",
+    "DerechosReconocidosNetos": 9270090,
+    "CodCap": 1,
+    "DesCap": "Impuestos directos",
+    "DesEco": "Impuesto sobre Actividades Económicas."
+  },
+  {
+    "CodEco": 13001,
+    "Descripcion": "Distribución cuotas nacionales I.A.E.",
+    "DerechosReconocidosNetos": 743429,
+    "CodCap": 1,
+    "DesCap": "Impuestos directos",
+    "DesEco": "Distribución cuotas nacionales IAE"
+  },
+  {
+    "CodEco": 13002,
+    "Descripcion": "Distribución cuotas provinciales I.A.E.",
+    "DerechosReconocidosNetos": 54556,
+    "CodCap": 1,
+    "DesCap": "Impuestos directos",
+    "DesEco": "Distribución cuotas provinciales IAE"
+  },
+  {
+    "CodEco": 21000,
+    "Descripcion": "Impuesto sobre el Valor Añadido",
+    "DerechosReconocidosNetos": 3354429,
+    "CodCap": 2,
+    "DesCap": "Impuestos indirectos",
+    "DesEco": "Impuesto sobre el Valor Añadido"
+  },
+  {
+    "CodEco": 22000,
+    "Descripcion": "Impuestos sobre el alcohol y bebidas derivadas",
+    "DerechosReconocidosNetos": 46756,
+    "CodCap": 2,
+    "DesCap": "Impuestos indirectos",
+    "DesEco": "Impuestos sobre el alcohol y bebidas derivadas"
+  },
+  {
+    "CodEco": 22001,
+    "Descripcion": "Impuesto sobre la cerveza",
+    "DerechosReconocidosNetos": 18004,
+    "CodCap": 2,
+    "DesCap": "Impuestos indirectos",
+    "DesEco": "Impuesto sobre la cerveza"
+  },
+  {
+    "CodEco": 22003,
+    "Descripcion": "Impuestos sobre las labores del tabaco",
+    "DerechosReconocidosNetos": 197699,
+    "CodCap": 2,
+    "DesCap": "Impuestos indirectos",
+    "DesEco": "Impuestos sobre las labores del tabaco"
+  },
+  {
+    "CodEco": 22004,
+    "Descripcion": "Impuestos sobre hidrocarburos",
+    "DerechosReconocidosNetos": 515036,
+    "CodCap": 2,
+    "DesCap": "Impuestos indirectos",
+    "DesEco": "Impuestos sobre hidrocarburos"
+  },
+  {
+    "CodEco": 22006,
+    "Descripcion": "Impuestos sobre productos intermedios",
+    "DerechosReconocidosNetos": 1176,
+    "CodCap": 2,
+    "DesCap": "Impuestos indirectos",
+    "DesEco": "Impuestos sobre productos intermedios"
+  },
+  {
+    "CodEco": 29000,
+    "Descripcion": "Impuestos sobre construcciones, instalaciones y obras",
+    "DerechosReconocidosNetos": 4420275,
+    "CodCap": 2,
+    "DesCap": "Impuestos indirectos",
+    "DesEco": "Impuestos sobre construcciones, instalaciones y obras"
+  },
+  {
+    "CodEco": 29100,
+    "Descripcion": "Impuestos sobre gastos suntuarios cotos de caza y pesca",
+    "DerechosReconocidosNetos": 24698,
+    "CodCap": 2,
+    "DesCap": "Impuestos indirectos",
+    "DesEco": "Impuestos sobre gastos suntuarios cotos de caza y pesca"
+  },
+  {
+    "CodEco": 30200,
+    "Descripcion": "Tasas por servicio recogida de basura",
+    "DerechosReconocidosNetos": 16181053,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas por servicio recogida de basura"
+  },
+  {
+    "CodEco": 30901,
+    "Descripcion": "Tasas prestación servicios cementerio municipal",
+    "DerechosReconocidosNetos": 464166,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas prestación servicios cementerio municipal"
+  },
+  {
+    "CodEco": 30902,
+    "Descripcion": "Tasas extinción de incendios y salvamentos",
+    "DerechosReconocidosNetos": 15593,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas extinción de incendios y salvamentos"
+  },
+  {
+    "CodEco": 30903,
+    "Descripcion": "Tasas servicios especiales de vigilancia, control prot.",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas servicios especiales de vigilancia, control prot."
+  },
+  {
+    "CodEco": 32100,
+    "Descripcion": "Tasas licencias urbanísticas",
+    "DerechosReconocidosNetos": 2002882,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas licencias urbanísticas"
+  },
+  {
+    "CodEco": 32201,
+    "Descripcion": "Tasas licencias de aperturas",
+    "DerechosReconocidosNetos": 154300,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas licencias de aperturas"
+  },
+  {
+    "CodEco": 32500,
+    "Descripcion": "Tasas por expedición de documentos",
+    "DerechosReconocidosNetos": 90316,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas por expedición de documentos"
+  },
+  {
+    "CodEco": 32600,
+    "Descripcion": "Tasas retirada de vehículos",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas retirada de vehículos"
+  },
+  {
+    "CodEco": 32901,
+    "Descripcion": "Tasas por celebración de matrimonios civiles",
+    "DerechosReconocidosNetos": 9140,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas por celebración de matrimonios civiles"
+  },
+  {
+    "CodEco": 33000,
+    "Descripcion": "Tasas de estacionamiento de vehículos",
+    "DerechosReconocidosNetos": 118808,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas de estacionamiento de vehículos"
+  },
+  {
+    "CodEco": 33100,
+    "Descripcion": "Tasa por entrada de vehículos",
+    "DerechosReconocidosNetos": 1778681,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasa por entrada de vehículos"
+  },
+  {
+    "CodEco": 33204,
+    "Descripcion": "Tasa utilización superficies y servicios estación autobús",
+    "DerechosReconocidosNetos": 75186,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasa utilización superficies y servicios estación autobús"
+  },
+  {
+    "CodEco": 33401,
+    "Descripcion": "Ingresos por canalizaciones vía pública",
+    "DerechosReconocidosNetos": 224225,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Ingresos por canalizaciones vía pública"
+  },
+  {
+    "CodEco": 33501,
+    "Descripcion": "Tasas ocupación vía pública gestionada por urbanismo",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas ocupación vía pública gestionada por urbanismo"
+  },
+  {
+    "CodEco": 33601,
+    "Descripcion": "Tasas por alteración o interrupción del tráfico",
+    "DerechosReconocidosNetos": 12193,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas por alteración o interrupción del tráfico"
+  },
+  {
+    "CodEco": 33701,
+    "Descripcion": "Tasas ocupación suelo, vuelo o subsuelo por empresas",
+    "DerechosReconocidosNetos": 1345983,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas ocupación suelo, vuelo o subsuelo por empresas"
+  },
+  {
+    "CodEco": 33800,
+    "Descripcion": "Compensación de Telefónica de España S.A.",
+    "DerechosReconocidosNetos": 349722,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Compensación de Telefónica de España S.A."
+  },
+  {
+    "CodEco": 33901,
+    "Descripcion": "Tasas licencias autotaxi y vehículos de alquiler",
+    "DerechosReconocidosNetos": 2462,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas licencias autotaxi y vehículos de alquiler"
+  },
+  {
+    "CodEco": 33902,
+    "Descripcion": "Tasas utilización puestos en mercado de abastos",
+    "DerechosReconocidosNetos": 90202,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas utilización puestos en mercado de abastos"
+  },
+  {
+    "CodEco": 33903,
+    "Descripcion": "Tasas ocupación con mercancias, materiales de construcción",
+    "DerechosReconocidosNetos": 22546,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas ocupación con mercancias, materiales de construcción"
+  },
+  {
+    "CodEco": 33904,
+    "Descripcion": "Tasas ocupación con kioscos",
+    "DerechosReconocidosNetos": 21569,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas ocupación con kioscos"
+  },
+  {
+    "CodEco": 33905,
+    "Descripcion": "Tasas fijación anuncios y publicidad en el dominio p. local",
+    "DerechosReconocidosNetos": 18247,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas fijación anuncios y publicidad en el dominio público local"
+  },
+  {
+    "CodEco": 33906,
+    "Descripcion": "Tasas por ocupación con puestos, barracas, etc.",
+    "DerechosReconocidosNetos": 29356,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas por ocupación con puestos, barracas, etc."
+  },
+  {
+    "CodEco": 33907,
+    "Descripcion": "Tasas por instalación fijas, puestos, espectáculos, etc.",
+    "DerechosReconocidosNetos": 239901,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Tasas por instalación fijas, puestos, espectáculos, etc."
+  },
+  {
+    "CodEco": 33908,
+    "Descripcion": "Ocupación vía pública con mesas y sillas",
+    "DerechosReconocidosNetos": 151720,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Ocupación vía pública con mesas y sillas"
+  },
+  {
+    "CodEco": 34201,
+    "Descripcion": "PP.PP Matrículas Escuela de Música",
+    "DerechosReconocidosNetos": 7060,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Precios públicos matrículas Escuela de música"
+  },
+  {
+    "CodEco": 34202,
+    "Descripcion": "Servicios actividades de mayores",
+    "DerechosReconocidosNetos": 8484,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Servicios actividades de mayores"
+  },
+  {
+    "CodEco": 34301,
+    "Descripcion": "PP.PP. Utilización de instalaciones deportivas",
+    "DerechosReconocidosNetos": 120534,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Precios públicos utilización de instalaciones deportivas"
+  },
+  {
+    "CodEco": 34302,
+    "Descripcion": "PP.PP. Matrículas competiciones hípicas",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Precios públicos matrículas competiciones hípicas"
+  },
+  {
+    "CodEco": 34303,
+    "Descripcion": "Inscripciones deportivas",
+    "DerechosReconocidosNetos": 11614,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Inscripciones deportivas"
+  },
+  {
+    "CodEco": 34403,
+    "Descripcion": "PP.PP.por ventas de entradas Museo Arqueológico",
+    "DerechosReconocidosNetos": 2495,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Precios públicos por ventas de entradas Museo Arqueológico"
+  },
+  {
+    "CodEco": 34404,
+    "Descripcion": "PP.PP. por entradas al conjunto monumental El Alcázar",
+    "DerechosReconocidosNetos": 47134,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Precios públicos por entradas al conjunto monumental El Alcázar"
+  },
+  {
+    "CodEco": 34405,
+    "Descripcion": "PP.PP. venta de entradas pruebas hípicas",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Precios públicos venta de entradas pruebas hípicas"
+  },
+  {
+    "CodEco": 34410,
+    "Descripcion": "PP.PP. venta de entradas Zoológico",
+    "DerechosReconocidosNetos": 251265,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Precios públicos venta de entradas Zoológico"
+  },
+  {
+    "CodEco": 34903,
+    "Descripcion": "PP.PP. servicios de sanidad preventiva, desinfección, etc.",
+    "DerechosReconocidosNetos": 4285,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Precios públicos servicios de sanidad preventiva, desinfección, etc."
+  },
+  {
+    "CodEco": 34905,
+    "Descripcion": "Celebración eventos privados Alcázar, P. Villavicenc, S. Com",
+    "DerechosReconocidosNetos": 4793,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Celebración eventos privados Alcázar, P. Villavicencio, S. Com"
+  },
+  {
+    "CodEco": 34906,
+    "Descripcion": "Centros Sociales",
+    "DerechosReconocidosNetos": 1500,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Centros Sociales"
+  },
+  {
+    "CodEco": 34907,
+    "Descripcion": "Celebración eventos Claustros de Santo Domingo",
+    "DerechosReconocidosNetos": 83,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Celebración eventos Claustros de Santo Domingo"
+  },
+  {
+    "CodEco": 34908,
+    "Descripcion": "PP.PP. servicio mantenimiento animales incautados",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Precios públicos servicio mantenimiento animales incautados"
+  },
+  {
+    "CodEco": 34909,
+    "Descripcion": "PP.PP. servicios informáticos y telecomunicaciones",
+    "DerechosReconocidosNetos": 235547,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Precios públicos servicios informáticos y telecomunicaciones"
+  },
+  {
+    "CodEco": 34910,
+    "Descripcion": "Prestación de servicio recaudación",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Prestación de servicio recaudación"
+  },
+  {
+    "CodEco": 36003,
+    "Descripcion": "Ventas objetos Museo Arqueológico",
+    "DerechosReconocidosNetos": 476,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Ventas objetos Museo Arqueológico"
+  },
+  {
+    "CodEco": 36400,
+    "Descripcion": "Venta por máquinas expendedoras",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Venta por máquinas expendedoras"
+  },
+  {
+    "CodEco": 38000,
+    "Descripcion": "Reintegro avales",
+    "DerechosReconocidosNetos": 108319,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Reintegro avales"
+  },
+  {
+    "CodEco": 38900,
+    "Descripcion": "Otros reintegros de operaciones corrientes",
+    "DerechosReconocidosNetos": 458309,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Otros reintegros de operaciones corrientes"
+  },
+  {
+    "CodEco": 38901,
+    "Descripcion": "Anuncios a cargo de particulares",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Anuncios a cargo de particulares"
+  },
+  {
+    "CodEco": 38902,
+    "Descripcion": "Obras e instalaciones a cargo de particulares",
+    "DerechosReconocidosNetos": 669,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Obras e instalaciones a cargo de particulares"
+  },
+  {
+    "CodEco": 39100,
+    "Descripcion": "Multas por infracciones urbanísticas",
+    "DerechosReconocidosNetos": 71639,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Multas por infracciones urbanísticas"
+  },
+  {
+    "CodEco": 39110,
+    "Descripcion": "Multas por infracciones tributarias y análogas",
+    "DerechosReconocidosNetos": 436830,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Multas por infracciones tributarias y análogas"
+  },
+  {
+    "CodEco": 39120,
+    "Descripcion": "Multas por infracciones de la Ordenanza de circulación",
+    "DerechosReconocidosNetos": 23418,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Multas por infracciones de la Ordenanza de circulación"
+  },
+  {
+    "CodEco": 39190,
+    "Descripcion": "Otras multas y sanciones",
+    "DerechosReconocidosNetos": 12273,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Otras multas y sanciones"
+  },
+  {
+    "CodEco": 39191,
+    "Descripcion": "Multas de ordenanzas municipales",
+    "DerechosReconocidosNetos": 3066,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Multas de ordenanzas municipales"
+  },
+  {
+    "CodEco": 39192,
+    "Descripcion": "Sanción salud pública",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Sanción salud pública"
+  },
+  {
+    "CodEco": 39211,
+    "Descripcion": "Recargo de apremio",
+    "DerechosReconocidosNetos": 1027534,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Recargo de apremio"
+  },
+  {
+    "CodEco": 39300,
+    "Descripcion": "Intereses de demora",
+    "DerechosReconocidosNetos": 767939,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Intereses de demora"
+  },
+  {
+    "CodEco": 39610,
+    "Descripcion": "Cuotas de urbanización",
+    "DerechosReconocidosNetos": 2006,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Cuotas de urbanización"
+  },
+  {
+    "CodEco": 39690,
+    "Descripcion": "CONVENIOS URBANISTICOS",
+    "DerechosReconocidosNetos": 52500,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Convenios urbanísticos"
+  },
+  {
+    "CodEco": 39710,
+    "Descripcion": "Otros ingresos por aprovechamientos urbanísticos",
+    "DerechosReconocidosNetos": 88811,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Otros ingresos por aprovechamientos urbanísticos"
+  },
+  {
+    "CodEco": 39901,
+    "Descripcion": "Ingresos diversos",
+    "DerechosReconocidosNetos": 908034,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Ingresos diversos"
+  },
+  {
+    "CodEco": 39902,
+    "Descripcion": "IMPREVISTOS",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Imprevistos"
+  },
+  {
+    "CodEco": 39907,
+    "Descripcion": "Ingresos de fincas no urbanizables",
+    "DerechosReconocidosNetos": 398531,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Ingresos de fincas no urbanizables"
+  },
+  {
+    "CodEco": 39911,
+    "Descripcion": "Ingresos costas judiciales",
+    "DerechosReconocidosNetos": 108910,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Ingresos costas judiciales"
+  },
+  {
+    "CodEco": 39913,
+    "Descripcion": "Ingresos por publicidad a cargo de particulares",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Ingresos por publicidad a cargo de particulares"
+  },
+  {
+    "CodEco": 39916,
+    "Descripcion": "Aprovechamiento urbanístico PMS",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Aprovechamiento urbanístico PMS"
+  },
+  {
+    "CodEco": 39918,
+    "Descripcion": "Ingresos por ejecución obras a cargo particulares",
+    "DerechosReconocidosNetos": 16536,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Ingresos por ejecución obras a cargo particulares"
+  },
+  {
+    "CodEco": 39919,
+    "Descripcion": "Indemnizaciones en bienes y derechos",
+    "DerechosReconocidosNetos": 38013,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Indemnizaciones en bienes y derechos"
+  },
+  {
+    "CodEco": 39920,
+    "Descripcion": "Servicio recogida residuos",
+    "DerechosReconocidosNetos": 1290625,
+    "CodCap": 3,
+    "DesCap": "Tasas, precios públicos y otros ingresos",
+    "DesEco": "Servicio recogida residuos"
+  },
+  {
+    "CodEco": 42001,
+    "Descripcion": "Otras transferencias del Estado Déficit Autobuses",
+    "DerechosReconocidosNetos": 384620,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "Otras transferencias del Estado déficit autobuses"
+  },
+  {
+    "CodEco": 42010,
+    "Descripcion": "Fondo complementario de financiación",
+    "DerechosReconocidosNetos": 41479798,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "Fondo complementario de financiación"
+  },
+  {
+    "CodEco": 42020,
+    "Descripcion": "Compensación por beneficios fiscales",
+    "DerechosReconocidosNetos": 194416,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "Compensación por beneficios fiscales"
+  },
+  {
+    "CodEco": 42090,
+    "Descripcion": "Otras transferencias corrientes de la Administración General",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "Otras transferencias corrientes de la Administración General"
+  },
+  {
+    "CodEco": 42094,
+    "Descripcion": "Conv. prestaciones básicas servicios sociales comunitarios",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "Conv. prestaciones básicas servicios sociales comunitarios"
+  },
+  {
+    "CodEco": 42101,
+    "Descripcion": "Transferencias Instituto Nacional de Estadistica",
+    "DerechosReconocidosNetos": 2438,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "Transferencias Instituto Nacional de Estadística"
+  },
+  {
+    "CodEco": 45000,
+    "Descripcion": "Participacion en los tributos de la Comunidad Autónoma",
+    "DerechosReconocidosNetos": 7347987,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "Participacion en los tributos de la Comunidad Autónoma"
+  },
+  {
+    "CodEco": 45002,
+    "Descripcion": "Transf. en materia de serv. sociales y políticas de igualdad",
+    "DerechosReconocidosNetos": 13973787,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "Transferencias en materia de servicios sociales y políticas de igualdad"
+  },
+  {
+    "CodEco": 45030,
+    "Descripcion": "Transferencias corrientes en cumplimiento de convenios suscr",
+    "DerechosReconocidosNetos": 64277,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "Transferencias corrientes en cumplimiento de convenios suscritos"
+  },
+  {
+    "CodEco": 45060,
+    "Descripcion": "Otras transferencias corrientes en cumplimiento de convenios",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "Otras transferencias corrientes en cumplimiento de convenios"
+  },
+  {
+    "CodEco": 45080,
+    "Descripcion": "Otras subvenciones corrientes de la Administración General d",
+    "DerechosReconocidosNetos": 52709,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "Otras subvenciones corrientes de la Administración General del Estado"
+  },
+  {
+    "CodEco": 45100,
+    "Descripcion": "Instituto Andaluz de la Mujer",
+    "DerechosReconocidosNetos": 61473,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "Instituto Andaluz de la Mujer"
+  },
+  {
+    "CodEco": 45107,
+    "Descripcion": "Subvenciones Servicio Andaluz de Empleo",
+    "DerechosReconocidosNetos": -644063,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "Subvenciones Servicio Andaluz de Empleo"
+  },
+  {
+    "CodEco": 46117,
+    "Descripcion": "Diputación Provincial de Cádiz",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "Diputación Provincial de Cádiz"
+  },
+  {
+    "CodEco": 46600,
+    "Descripcion": "De otras Entidades que agrupen Municipios",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "De otras entidades que agrupen municipios"
+  },
+  {
+    "CodEco": 47000,
+    "Descripcion": "De empresas privadas",
+    "DerechosReconocidosNetos": 250960,
+    "CodCap": 4,
+    "DesCap": "Transferencias corrientes",
+    "DesEco": "De empresas privadas"
+  },
+  {
+    "CodEco": 51100,
+    "Descripcion": "Intereses de préstamos concedios a Organ. Autónomos y a",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 5,
+    "DesCap": "Ingresos patrimoniales",
+    "DesEco": "Intereses de préstamos concedios a Organ. Autónomos y a"
+  },
+  {
+    "CodEco": 51400,
+    "Descripcion": "Intereses de préstamos concedidos a sociedades mercantiles,E",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 5,
+    "DesCap": "Ingresos patrimoniales",
+    "DesEco": "Intereses de préstamos concedidos a sociedades mercantiles,E"
+  },
+  {
+    "CodEco": 52000,
+    "Descripcion": "Intereses de depósito",
+    "DerechosReconocidosNetos": 4,
+    "CodCap": 5,
+    "DesCap": "Ingresos patrimoniales",
+    "DesEco": "Intereses de depósito"
+  },
+  {
+    "CodEco": 53410,
+    "Descripcion": "De soc y entidades no dependientes de la entidades locales",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 5,
+    "DesCap": "Ingresos patrimoniales",
+    "DesEco": "De sociedades y entidades no dependientes de la entidades locales"
+  },
+  {
+    "CodEco": 54100,
+    "Descripcion": "Arrendamientos de fincas urbanas",
+    "DerechosReconocidosNetos": 18646,
+    "CodCap": 5,
+    "DesCap": "Ingresos patrimoniales",
+    "DesEco": "Arrendamientos de fincas urbanas"
+  },
+  {
+    "CodEco": 55000,
+    "Descripcion": "Concesiones administrativas",
+    "DerechosReconocidosNetos": 1358191,
+    "CodCap": 5,
+    "DesCap": "Ingresos patrimoniales",
+    "DesEco": "Concesiones administrativas"
+  },
+  {
+    "CodEco": 55903,
+    "Descripcion": "Vallas publicitarias",
+    "DerechosReconocidosNetos": 192754,
+    "CodCap": 5,
+    "DesCap": "Ingresos patrimoniales",
+    "DesEco": "Vallas publicitarias"
+  },
+  {
+    "CodEco": 59002,
+    "Descripcion": "Patrocinio eventos de fiestas",
+    "DerechosReconocidosNetos": 107438,
+    "CodCap": 5,
+    "DesCap": "Ingresos patrimoniales",
+    "DesEco": "Patrocinio eventos de fiestas"
+  },
+  {
+    "CodEco": 59900,
+    "Descripcion": "Otros ingresos patrimoniales",
+    "DerechosReconocidosNetos": 13055,
+    "CodCap": 5,
+    "DesCap": "Ingresos patrimoniales",
+    "DesEco": "Otros ingresos patrimoniales"
+  },
+  {
+    "CodEco": 59901,
+    "Descripcion": "Patrocinio actos culturales",
+    "DerechosReconocidosNetos": 14000,
+    "CodCap": 5,
+    "DesCap": "Ingresos patrimoniales",
+    "DesEco": "Patrocinio actos culturales"
+  },
+  {
+    "CodEco": 60300,
+    "Descripcion": "Enajenaciones PMS",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 6,
+    "DesCap": "Enajenación de inversiones",
+    "DesEco": "Enajenaciones PMS"
+  },
+  {
+    "CodEco": 72000,
+    "Descripcion": "Transf. capital Administración Gral. del Estado",
+    "DerechosReconocidosNetos": -3894406,
+    "CodCap": 7,
+    "DesCap": "Transferencias de capital",
+    "DesEco": "Transferencias capital Administración General del Estado"
+  },
+  {
+    "CodEco": 75030,
+    "Descripcion": "Transferencias de capital en cumplimiento de convenios suscr",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 7,
+    "DesCap": "Transferencias de capital",
+    "DesEco": "Transferencias de capital en cumplimiento de convenios suscritos"
+  },
+  {
+    "CodEco": 75100,
+    "Descripcion": "Transferencias capital Organismos Autónomos y Agencias CCAA",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 7,
+    "DesCap": "Transferencias de capital",
+    "DesEco": "Transferencias capital Organismos Autónomos y Agencias CCAA"
+  },
+  {
+    "CodEco": 76100,
+    "Descripcion": "Transferencia de capital de Diputación Provincial de Cádiz",
+    "DerechosReconocidosNetos": 244968,
+    "CodCap": 7,
+    "DesCap": "Transferencias de capital",
+    "DesEco": "Transferencia de capital de Diputación Provincial de Cádiz"
+  },
+  {
+    "CodEco": 77000,
+    "Descripcion": "De empresas privadas",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 7,
+    "DesCap": "Transferencias de capital",
+    "DesEco": "De empresas privadas"
+  },
+  {
+    "CodEco": 83001,
+    "Descripcion": "Reintegro de anticipos al personal a corto plazo",
+    "DerechosReconocidosNetos": 500,
+    "CodCap": 8,
+    "DesCap": "Activos financieros",
+    "DesEco": "Reintegro de anticipos al personal a corto plazo"
+  },
+  {
+    "CodEco": 83101,
+    "Descripcion": "Reintegro de anticipos al personal a largo plazo",
+    "DerechosReconocidosNetos": 134777,
+    "CodCap": 8,
+    "DesCap": "Activos financieros",
+    "DesEco": "Reintegro de anticipos al personal a largo plazo"
+  },
+  {
+    "CodEco": 87010,
+    "Descripcion": "Para gastos con financiación afectada",
+    "DerechosReconocidosNetos": 0,
+    "CodCap": 8,
+    "DesCap": "Activos financieros",
+    "DesEco": "Para gastos con financiación afectada"
+  },
+  {
+    "CodEco": 91100,
+    "Descripcion": "Préstamos recibidos a  L/P de entes del sector público",
+    "DerechosReconocidosNetos": 38859733,
+    "CodCap": 9,
+    "DesCap": "Pasivos financieros",
+    "DesEco": "Préstamos recibidos a  largo plazp de entes del sector público"
+  }
+]
